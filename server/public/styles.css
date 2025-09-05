@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  span.rainbow {
+    display: inline-block;
+  }
+  
+  span.rainbow span {
+    display: inline-block;
+    animation: bounce 1s infinite;
+  }
+  
+  span.r0 { color: red; }
+  span.r1 { color: orange; }
+  span.r2 { color: yellow; }
+  span.r3 { color: green; }
+  span.r4 { color: blue; }
+  span.r5 { color: indigo; }
+  span.r6 { color: violet; }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  
