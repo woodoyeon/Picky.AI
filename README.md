@@ -1,3 +1,9 @@
+## 📑 프로젝트 자료
+
+* 📄 [창업투자경진대회 신청서](./창업투자경진대회%20신청서.pdf)
+* 📊 [Picky.AI 발표 PPT](./Picky.AI%20발표%20PPT.pdf)
+* 📄 [프로젝트 개요 PDF](./PickyAI_overview.pdf)
+* 🎬 [시연 영상](./demo.mp4)
 
 
 ---
