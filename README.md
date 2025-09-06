@@ -238,9 +238,6 @@ POST /api/shipping-policy
      ======================= -->
 <h2 id="final" align="center">🎉 마무리 · 자료 한 번에 보기</h2>
 
-<p align="center">
-  <img src="./images/11.png" width="860" alt="감사합니다 / 클로징" />
-</p>
 
 <!-- 큼직한 CTA 버튼 -->
 <div align="center" style="margin: 18px 0 6px;">
