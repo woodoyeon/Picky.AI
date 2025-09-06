@@ -7,6 +7,58 @@
 
 ---
 
+
+<!-- =======================
+     🔗 자료 다운로드
+     ======================= -->
+<h2 id="final" align="center">🎉 자료 한 번에 보기</h2>
+
+
+<!-- 큼직한 CTA 버튼 -->
+<div align="center" style="margin: 18px 0 6px;">
+  <a href="./assets/B-startUp.pdf" target="_blank" 
+     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#111;color:#fff;
+            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,0,0,.15);">
+    📄 사업계획서&nbsp; B-startUp.pdf
+  </a>
+  <a href="./assets/Picky.AI_ver1.0.pdf" target="_blank" 
+     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#0046FF;color:#fff;
+            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,70,255,.25);">
+    📑 발표 자료&nbsp; ver&nbsp;1.0
+  </a>
+  <a href="./assets/Picky.AI_ver2.0.pdf" target="_blank" 
+     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#00B894;color:#fff;
+            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,184,148,.25);">
+    📑 발표 자료&nbsp; ver&nbsp;2.0
+  </a>
+</div>
+
+<!-- 서브 안내 / 뱃지형 링크 (선호 시 사용) -->
+<p align="center" style="margin-top:8px;">
+  <a href="./assets/B-startUp.pdf" target="_blank">
+    <img alt="사업계획서 PDF" 
+         src="https://img.shields.io/badge/Business%20Plan-B--startUp.pdf-111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
+  <a href="./assets/Picky.AI_ver1.0.pdf" target="_blank">
+    <img alt="발표 ver1.0" 
+         src="https://img.shields.io/badge/Slides-ver1.0-0046FF?style=for-the-badge&logo=googleslides&logoColor=white">
+  </a>
+  <a href="./assets/Picky.AI_ver2.0.pdf" target="_blank">
+    <img alt="발표 ver2.0" 
+         src="https://img.shields.io/badge/Slides-ver2.0-00B894?style=for-the-badge&logo=googleslides&logoColor=white">
+  </a>
+</p>
+
+<!-- 간단 메모 -->
+<p align="center">
+  <sub>버튼을 클릭하면 새 탭에서 열립니다. 파일 위치: <code>./assets/</code></sub>
+</p>
+
+
+---
+
+
+
 ## ✨ 핵심 가치 제안 (Why Picky.AI)
 
 - **프롬프트 입력만으로 상세페이지 완성**
@@ -234,9 +286,9 @@ POST /api/shipping-policy
 ---
 
 <!-- =======================
-     🔗 마무리 & 자료 다운로드
+     🔗 자료 다운로드
      ======================= -->
-<h2 id="final" align="center">🎉 마무리 · 자료 한 번에 보기</h2>
+<h2 id="final" align="center">🎉 자료 한 번에 보기</h2>
 
 
 <!-- 큼직한 CTA 버튼 -->
