@@ -18,6 +18,104 @@
 
 ---
 
+---
+
+## 🎞️ 프로젝트 개요 & 슬라이드 요약
+
+### 한 장으로 보는 프로젝트
+
+<img src="./images/1.png" width="940" />
+
+> AI가 이미지 생성·설명문 작성·템플릿 자동 배치·FAQ 챗봇까지 돕는 End-to-End 솔루션
+> 더 자세한 사업 모델은 👉 **[사업계획서 B-startUp.pdf](./assets/B-startUp.pdf)** 참고
+
+---
+
+### 1) 목차 & 진행 방식
+
+<img src="./images/2.png" width="820" />
+
+읽는 시간은 3\~4분.
+전체 발표 자료는 👉 [Picky.AI ver1.0](./assets/Picky.AI_ver1.0.pdf), [Picky.AI ver2.0](./assets/Picky.AI_ver2.0.pdf)
+
+---
+
+### 2) 솔루션 개요 (What)
+
+<img src="./images/3.png" width="940" />
+
+* 상품 이미지 자동 합성
+* 설명문 자동 생성
+* 상세페이지 템플릿 자동 배치
+
+---
+
+### 3) 고객 응대 확장
+
+<img src="./images/4.png" width="940" />
+
+* AI 챗봇
+* 상담원 연결
+* 상담 어드바이스
+
+---
+
+### 4) 왜 필요한가 (Need)
+
+<img src="./images/5.png" width="940" />
+<img src="./images/6.png" width="940" />
+
+> 기존 문제: 비용/정보 부족 → Picky.AI는 “접근성 높은 자동화 툴”로 해결
+
+---
+
+### 5) 시스템 작동 방식 (How)
+
+<img src="./images/7.png" width="940" />
+
+1. 상품 이미지 업로드
+2. AI 자동화(합성/키워드/설명문)
+3. 상세페이지 자동 출력
+
+---
+
+### 6) 도입 효과 (Benefit)
+
+<img src="./images/8.png" width="940" />
+
+* 제작 시간: 39시간 → 10분
+* 비용: 외주 12\~41만 원 → 원가 2원 수준
+
+---
+
+### 9) 클로징
+
+<img src="./images/11.png" width="820" />
+
+* 📄 [사업계획서 B-startUp.pdf](./assets/B-startUp.pdf)
+* 📑 [발표 ver1.0](./assets/Picky.AI_ver1.0.pdf)
+* 📑 [발표 ver2.0](./assets/Picky.AI_ver2.0.pdf)
+
+---
+
+## 🧭 역할 & 기여
+
+* **PM (기획)**: 워크플로우 설계, UX 단순화, 자동화 컨셉 제안
+* **개발 (Full-stack & AI)**:
+
+  * React UI, Supabase 연동
+  * GPT·Runway API 연결
+  * Export 기능 (PDF/PNG/ZIP)
+
+---
+
+## 🔮 향후 계획
+
+* **PickyBiz.AI** 확장 프로젝트로 발전 예정
+* 물류/가격/광고 데이터와 연동, 비즈니스 의사결정 자동화 지원
+
+---
+
 ## 🔧 기술 스택
 
 - **Frontend**: React (Vite), TypeScript, TailwindCSS
@@ -132,121 +230,6 @@ POST /api/shipping-policy
 - body: { brand, tone, language }
 - res: { draftHtml }
 ```
-
----
-
-## 🎞️ 프로젝트 개요 & 슬라이드 요약
-
-### 0) 한 장으로 보는 프로젝트
-
-<img src="./images/1.png" width="940" />
-
-> AI가 이미지 생성·설명문 작성·템플릿 자동 배치·FAQ 챗봇까지 돕는 End-to-End 솔루션
-> 더 자세한 사업 모델은 👉 **[사업계획서 B-startUp.pdf](./assets/B-startUp.pdf)** 참고
-
----
-
-### 1) 목차 & 진행 방식
-
-<img src="./images/2.png" width="820" />
-
-읽는 시간은 3\~4분.
-전체 발표 자료는 👉 [Picky.AI ver1.0](./assets/Picky.AI_ver1.0.pdf), [Picky.AI ver2.0](./assets/Picky.AI_ver2.0.pdf)
-
----
-
-### 2) 솔루션 개요 (What)
-
-<img src="./images/3.png" width="940" />
-
-* 상품 이미지 자동 합성
-* 설명문 자동 생성
-* 상세페이지 템플릿 자동 배치
-
----
-
-### 3) 고객 응대 확장
-
-<img src="./images/4.png" width="940" />
-
-* AI 챗봇
-* 상담원 연결
-* 상담 어드바이스
-
----
-
-### 4) 왜 필요한가 (Need)
-
-<img src="./images/5.png" width="940" />
-<img src="./images/6.png" width="940" />
-
-> 기존 문제: 비용/정보 부족 → Picky.AI는 “접근성 높은 자동화 툴”로 해결
-
----
-
-### 5) 시스템 작동 방식 (How)
-
-<img src="./images/7.png" width="940" />
-
-1. 상품 이미지 업로드
-2. AI 자동화(합성/키워드/설명문)
-3. 상세페이지 자동 출력
-
----
-
-### 6) 도입 효과 (Benefit)
-
-<img src="./images/8.png" width="940" />
-
-* 제작 시간: 39시간 → 10분
-* 비용: 외주 12\~41만 원 → 원가 2원 수준
-
----
-
-### 7) 현황 및 일정 (Roadmap)
-
-<img src="./images/9.png" width="940" />
-
-* 2Q: PoC + 챗봇
-* 3Q: 기능 확장 + 베타 50명 모집
-* 4Q: 해외 진출 준비
-
----
-
-### 8) 팀 소개 (Who)
-
-<img src="./images/10.png" width="820" />
-
-* 우도연 (PM/Full-stack)
-* 김해준 (AI/Backend)
-
----
-
-### 9) 클로징
-
-<img src="./images/11.png" width="820" />
-
-* 📄 [사업계획서 B-startUp.pdf](./assets/B-startUp.pdf)
-* 📑 [발표 ver1.0](./assets/Picky.AI_ver1.0.pdf)
-* 📑 [발표 ver2.0](./assets/Picky.AI_ver2.0.pdf)
-
----
-
-## 🧭 역할 & 기여
-
-* **PM (기획)**: 워크플로우 설계, UX 단순화, 자동화 컨셉 제안
-* **개발 (Full-stack & AI)**:
-
-  * React UI, Supabase 연동
-  * GPT·Runway API 연결
-  * Export 기능 (PDF/PNG/ZIP)
-
----
-
-## 🔮 향후 계획
-
-* **PickyBiz.AI** 확장 프로젝트로 발전 예정
-* 물류/가격/광고 데이터와 연동, 비즈니스 의사결정 자동화 지원
 
 ---
 
