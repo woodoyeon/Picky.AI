@@ -1,3 +1,21 @@
+---
+
+## 🎥 시연 동영상 미리보기
+
+<div align="center" style="margin: 20px 0;">
+  <video width="720" controls style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);">
+    <source src="./PickyAI.mp4" type="video/mp4">
+    ❌ 동영상 미리보기를 지원하지 않는 브라우저입니다.  
+    👉 [직접 보기](./PickyAI.mp4)
+  </video>
+</div>
+
+<p align="center">
+  <sub>브라우저에서 직접 재생되지 않을 경우, 파일을 다운로드해서 확인하세요.</sub>
+</p>
+
+---
+
 
 <!-- 프로젝트 타이틀 -->
 <h1 align="center">🛍️ Picky.AI — AI 기반 쇼핑몰 상세페이지 제작 자동화 플랫폼</h1>
