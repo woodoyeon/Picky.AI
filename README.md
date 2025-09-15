@@ -4,16 +4,15 @@
 ## 🎥 시연 동영상 미리보기
 
 <div align="center" style="margin: 20px 0;">
-  <!-- GitHub는 <video> 미리보기가 제한적 → 썸네일 + 링크 방식 -->
   <a href="./PickyAI.mp4" target="_blank">
     <img src="./images/preview-video.png" alt="시연 동영상 미리보기" width="720" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
   </a>
   <p align="center">
-    <sub>▶ 이미지를 클릭하면 <code>PickyAI.mp4</code> 시연 동영상이 재생됩니다.</sub>
+    <sub>▶ 이미지를 클릭하면 <code>PickyAI.mp4</code> 파일이 새 탭에서 열리며,  
+    브라우저 설정에 따라 다운로드되거나 기본 플레이어에서 재생됩니다.</sub>
   </p>
 </div>
 
----
 
 ---
 
