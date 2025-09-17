@@ -43,7 +43,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="./PickyAI.mp4" target="_blank">
-    <img src="./images/preview-video.png" alt="시연 동영상 미리보기" width="720" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
+    <img alt="🎥시연 동영상 미리보기" width="720" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.15);" />
   </a>
   <p align="center">
     <sub>▶ 이미지를 클릭하면 <code>PickyAI.mp4</code> 파일이 새 탭에서 열리며,  
