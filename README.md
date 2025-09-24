@@ -19,16 +19,6 @@
 
 <!-- 큼직한 CTA 버튼 -->
 <div align="center" style="margin: 18px 0 6px;">
-  <a href="./assets/B-startUp.pdf" target="_blank" 
-     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#111;color:#fff;
-            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,0,0,.15);">
-    📄 사업계획서&nbsp; B-startUp.pdf
-  </a>
-  <a href="./assets/Picky.AI_ver1.0.pdf" target="_blank" 
-     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#0046FF;color:#fff;
-            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,70,255,.25);">
-    📑 발표 자료&nbsp; ver&nbsp;1.0
-  </a>
   <a href="./assets/Picky.AI_ver2.0.pdf" target="_blank" 
      style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#00B894;color:#fff;
             font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,184,148,.25);">
