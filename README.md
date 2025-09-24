@@ -38,23 +38,6 @@
 ---
 
 
-<!-- 서브 안내 / 뱃지형 링크 (선호 시 사용) -->
-<p align="center" style="margin-top:8px;">
-  <a href="./assets/Picky.AI_ver2.0.pdf" target="_blank">
-    <img alt="발표 ver2.0" 
-         src="https://img.shields.io/badge/Slides-ver2.0-00B894?style=for-the-badge&logo=googleslides&logoColor=white">
-  </a>
-</p>
-
-<!-- 간단 메모 -->
-<p align="center">
-  <sub>버튼을 클릭하면 새 탭에서 열립니다. 파일 위치: <code>./assets/</code></sub>
-</p>
-
-
----
-
-
 
 ## ✨ 핵심 가치 제안 (Why Picky.AI)
 
