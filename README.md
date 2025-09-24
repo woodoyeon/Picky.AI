@@ -93,7 +93,7 @@
 <img src="./images/2.png" width="820" />
 
 읽는 시간은 3\~4분.
-전체 발표 자료는 👉 [Picky.AI ver1.0](./assets/Picky.AI_ver1.0.pdf), [Picky.AI ver2.0](./assets/Picky.AI_ver2.0.pdf)
+전체 발표 자료는 👉 [Picky.AI ver2.0](./assets/Picky.AI_ver2.0.pdf)
 
 ---
 
@@ -291,7 +291,7 @@ POST /api/shipping-policy
 <!-- =======================
      🔗 자료 다운로드
      ======================= -->
-<h2 id="final" align="center">🎉 자료 한 번에 보기</h2>
+<h2 id="final" align="center">🎉 발표 자료 보기</h2>
 
 
 <!-- 큼직한 CTA 버튼 -->
