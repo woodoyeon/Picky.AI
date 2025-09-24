@@ -1,11 +1,3 @@
-## 🎥 시연 동영상 다운로드
-
-<p align="center">
-  <a href="https://github.com/woodoyeon/your-repo/raw/main/PickyAI.mp4">
-    <img src="https://img.shields.io/badge/🎥 Download-PickyAI_Demo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PickyAI Demo"/>
-  </a>
-</p>
-
 
 ---
 
@@ -44,22 +36,6 @@
 </p>
 
 ---
-
-
-## 🎥 시연 동영상 미리보기
-
-<div align="center" style="margin: 20px 0;">
-  <a href="./PickyAI.mp4" target="_blank" 
-     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#E50914;color:#fff;
-            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,0,0,.15);">
-    🎬 ▶ 시연 동영상 보기
-  </a>
-  <p align="center">
-    <sub>▶ 버튼을 클릭하면 <code>PickyAI.mp4</code> 파일이 새 탭에서 열리며,  
-    브라우저 설정에 따라 다운로드되거나 기본 플레이어에서 재생됩니다.</sub>
-  </p>
-</div>
-
 
 
 <!-- 서브 안내 / 뱃지형 링크 (선호 시 사용) -->
@@ -108,7 +84,7 @@
 <img src="./images/1.png" width="940" />
 
 > AI가 이미지 생성·설명문 작성·템플릿 자동 배치·FAQ 챗봇까지 돕는 End-to-End 솔루션
-> 더 자세한 사업 모델은 👉 **[사업계획서 B-startUp.pdf](./assets/B-startUp.pdf)** 참고
+
 
 ---
 
@@ -173,8 +149,6 @@
 
 <img src="./images/11.png" width="820" />
 
-* 📄 [사업계획서 B-startUp.pdf](./assets/B-startUp.pdf)
-* 📑 [발표 ver1.0](./assets/Picky.AI_ver1.0.pdf)
 * 📑 [발표 ver2.0](./assets/Picky.AI_ver2.0.pdf)
 
 ---
@@ -322,16 +296,6 @@ POST /api/shipping-policy
 
 <!-- 큼직한 CTA 버튼 -->
 <div align="center" style="margin: 18px 0 6px;">
-  <a href="./assets/B-startUp.pdf" target="_blank" 
-     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#111;color:#fff;
-            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,0,0,.15);">
-    📄 사업계획서&nbsp; B-startUp.pdf
-  </a>
-  <a href="./assets/Picky.AI_ver1.0.pdf" target="_blank" 
-     style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#0046FF;color:#fff;
-            font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,70,255,.25);">
-    📑 발표 자료&nbsp; ver&nbsp;1.0
-  </a>
   <a href="./assets/Picky.AI_ver2.0.pdf" target="_blank" 
      style="display:inline-block;margin:10px;padding:14px 22px;border-radius:12px;background:#00B894;color:#fff;
             font-weight:700;text-decoration:none;font-size:16px;box-shadow:0 6px 20px rgba(0,184,148,.25);">
@@ -341,14 +305,6 @@ POST /api/shipping-policy
 
 <!-- 서브 안내 / 뱃지형 링크 (선호 시 사용) -->
 <p align="center" style="margin-top:8px;">
-  <a href="./assets/B-startUp.pdf" target="_blank">
-    <img alt="사업계획서 PDF" 
-         src="https://img.shields.io/badge/Business%20Plan-B--startUp.pdf-111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>
-  <a href="./assets/Picky.AI_ver1.0.pdf" target="_blank">
-    <img alt="발표 ver1.0" 
-         src="https://img.shields.io/badge/Slides-ver1.0-0046FF?style=for-the-badge&logo=googleslides&logoColor=white">
-  </a>
   <a href="./assets/Picky.AI_ver2.0.pdf" target="_blank">
     <img alt="발표 ver2.0" 
          src="https://img.shields.io/badge/Slides-ver2.0-00B894?style=for-the-badge&logo=googleslides&logoColor=white">
