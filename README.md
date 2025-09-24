@@ -14,7 +14,7 @@
 <!-- =======================
      🔗 자료 다운로드
      ======================= -->
-<h2 id="final" align="center">🎉 자료 한 번에 보기</h2>
+<h2 id="final" align="center">🎉 발표 자료 보기</h2>
 
 
 <!-- 큼직한 CTA 버튼 -->
@@ -32,6 +32,25 @@
 
 <p align="center">
   <a href="./PickyAI.mp4" download>
+    <img src="https://img.shields.io/badge/🎥 Download-PickyAI_Demo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PickyAI Demo"/>
+  </a>
+</p>
+
+---
+
+## 🎥 시연 동영상 다운로드
+<p align="center">
+  <a href="https://github.com/woodoyeon/your-repo/releases/latest/download/PickyAI.mp4">
+    <img src="https://img.shields.io/badge/🎥 Download-PickyAI_Demo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PickyAI Demo"/>
+  </a>
+</p>
+
+
+---
+
+## 🎥 시연 동영상 다운로드
+<p align="center">
+  <a href="https://github.com/woodoyeon/your-repo/raw/main/PickyAI.mp4">
     <img src="https://img.shields.io/badge/🎥 Download-PickyAI_Demo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PickyAI Demo"/>
   </a>
 </p>
