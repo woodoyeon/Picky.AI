@@ -25,6 +25,24 @@
   </a>
 </div>
 
+---
+## 🎥 IR 발표 동영상 다운로드
+
+<p align="center">
+  <a href="./PickyAI.mp4" download>
+    <img src="https://img.shields.io/badge/🎥 Download-PickyAI_Demo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PickyAI Demo"/>
+  </a>
+</p>
+
+---
+
+## 🎥 대상 수상 동영상 다운로드
+
+<p align="center">
+  <a href="./PickyAI.mp4" download>
+    <img src="https://img.shields.io/badge/🎥 Download-PickyAI_Demo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PickyAI Demo"/>
+  </a>
+</p>
 
 ---
 ## 🎥 시연 동영상 다운로드
