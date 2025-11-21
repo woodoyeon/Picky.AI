@@ -27,10 +27,11 @@
 ## 🎥 발표 동영상 다운로드
 
 <p align="center">
-  <a href="./PickyAI.mp4" download>
-    <img src="https://img.shields.io/badge/🎥 Download-PickyAI_Presentation-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download PickyAI Presentation"/>
+  <a href="https://github.com/woodoyeon/Picky.AI/releases/tag/PickAI" target="_blank">
+    <img src="https://img.shields.io/badge/🎥%20Watch-PickyAI_Presentation-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Watch PickyAI Presentation"/>
   </a>
 </p>
+
 
 ---
 
