@@ -78,7 +78,7 @@
 
 ### 1) 목차 (Table of Contents)
 
-<img src="./images/02.png" width="940" />
+<img src="./images/02.PNG" width="940" />
 
 - 01 창업 배경 및 문제 인식  
 - 02 솔루션 개요  
@@ -99,7 +99,7 @@
 
 ### 2) 01. 창업 배경 및 문제 인식 (Background)
 
-<img src="./images/03.png" width="940" />
+<img src="./images/03.PNG" width="940" />
 
 - 온라인 쇼핑몰 수는 늘었지만 **1년 내 폐업률 30%**  
 - 문제 원인:
@@ -112,7 +112,7 @@
 
 ### 3) 02. 솔루션 개요 — Picky.AI
 
-<img src="./images/04.png" width="940" />
+<img src="./images/04.PNG" width="940" />
 
 > **Picky.AI = AI 기반 상세페이지 자동 제작 솔루션**
 
@@ -124,7 +124,7 @@
 
 ### 4) 03. 카페24 & 스마트스토어 등과 연동
 
-<img src="./images/05.png" width="940" />
+<img src="./images/05.PNG" width="940" />
 
 - 카페24·스마트스토어 등 **주요 쇼핑 플랫폼과 연동**
 - 한 번의 승인/클릭으로:
@@ -135,7 +135,7 @@
 
 ### 5) 04. 상담 어드바이스 챗봇
 
-<img src="./images/06.png" width="940" />
+<img src="./images/06.PNG" width="940" />
 
 - AI 챗봇이 고객 문의를 실시간으로 처리
 - 상담원 화면에 **자동 제안 문장(어드바이스)** 제공
@@ -147,7 +147,7 @@
 
 ### 6) 05. 시연동영상 (Feasibility)
 
-<img src="./images/07.png" width="940" />
+<img src="./images/07.PNG" width="940" />
 
 - 실제 **프로토타입 웹 화면** 기반 시연
   - 왼쪽: GPT 기반 프롬프트/대화 영역
@@ -161,7 +161,7 @@
 
 ### 7) 06. 왜 이 솔루션이 필요한가 (시장 데이터)
 
-<img src="./images/08.png" width="940" />
+<img src="./images/08.PNG" width="940" />
 
 - 출처: 경기소상공인 경제이슈 브리프(2024)  
 - **디지털·AI 기술 서비스 도입을 막는 이유**
@@ -176,7 +176,7 @@
 
 ### 8) 06-2. 왜 이 솔루션이 필요한가 (제작비/시간 관점)
 
-<img src="./images/09.png" width="940" />
+<img src="./images/09.PNG" width="940" />
 
 - 현재 상세페이지 외주비: **12만 ~ 42만 원/건**
 - Picky.AI 적용 시:
@@ -189,7 +189,7 @@
 
 ### 9) 07. 시스템 작동 방식 (System Flow)
 
-<img src="./images/10.png" width="940" />
+<img src="./images/10.PNG" width="940" />
 
 1. **상품 정보 입력**  
    - 이름, 카테고리, 스타일 등 기본 정보 입력  
@@ -204,7 +204,7 @@
 
 ### 10) 08. 실제 쇼핑몰 적용사례 (Case Study)
 
-<img src="./images/11.png" width="940" />
+<img src="./images/11.PNG" width="940" />
 
 - 적용 사이트: **7company.kr**
 - Picky.AI가 생성한 이미지·텍스트를 실제 쇼핑몰에 업로드
@@ -216,7 +216,7 @@
 
 ### 11) 09. 적용 후 매출 성장 (Performance)
 
-<img src="./images/12.png" width="940" />
+<img src="./images/12.PNG" width="940" />
 
 1. **매출 급상승 (Sales Growth)**  
    - 매출 0원 → **223,000원**  
@@ -230,7 +230,7 @@
 
 ### 12) 10. 시스템 도입 효과 (Before vs After)
 
-<img src="./images/13.png" width="940" />
+<img src="./images/13.PNG" width="940" />
 
 - **시간 소모** → AI 자동화로 **10분 내외 완성**
 - **비용 부담** → API 원가 기준 **건당 약 2원 수준**
@@ -241,7 +241,7 @@
 
 ### 13) 11. 비즈니스 모델 (Business Model)
 
-<img src="./images/14.png" width="940" />
+<img src="./images/14.PNG" width="940" />
 
 - **구독형 SaaS 요금제**
   - 베이직: 월 29,000원 (월 100회)
@@ -254,7 +254,7 @@
 
 ### 14) 12. 경쟁 솔루션 대비 차별점 (Differentiation)
 
-<img src="./images/15.png" width="940" />
+<img src="./images/15.PNG" width="940" />
 
 - 크몽 외주 디자이너 / 광고보드형 템플릿 툴 / 기존 AI 툴 vs **Picky.AI**
 - 차별 포인트:
@@ -268,7 +268,7 @@
 
 ### 15) 13. 현황 및 개발 일정 (Roadmap)
 
-<img src="./images/16.png" width="940" />
+<img src="./images/16.PNG" width="940" />
 
 - **2025년 2Q (4~6월)**  
   - 전공 융합 프로젝트 Picky.AI 개발 시작  
@@ -284,7 +284,7 @@
 
 ### 16) 14. 팀 소개 (Our Team)
 
-<img src="./images/17.png" width="940" />
+<img src="./images/17.PNG" width="940" />
 
 - **우도연 팀장**  
   - 팀 총괄 / 아키텍처 설계 / 핵심 개발 리딩  
@@ -300,7 +300,7 @@
 
 ### 17) Q&A
 
-<img src="./images/18.png" width="940" />
+<img src="./images/18.PNG" width="940" />
 
 > “감사합니다.”  
 > 질의응답을 통해 기술·사업성·확장성에 대한 추가 설명 진행.
@@ -392,7 +392,7 @@ OPENAI_API_KEY=...
 SUPABASE_URL=...
 SUPABASE_SERVICE_ROLE_KEY=...
 RUNWAY_API_KEY=...
-````
+```
 
 **client/.env**
 
