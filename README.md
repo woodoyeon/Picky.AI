@@ -67,7 +67,7 @@
 
 ## 🎞️ 프로젝트 개요 & 슬라이드 요약
 
-### 0) 커버 — 쇼핑몰 상세페이지 제작 자동화 솔루션
+### 커버 — 쇼핑몰 상세페이지 제작 자동화 솔루션
 
 <img src="./images/01.PNG" width="940" />
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 1) 목차 (Table of Contents)
+### 목차 (Table of Contents)
 
 <img src="./images/02.PNG" width="940" />
 
@@ -97,7 +97,7 @@
 
 ---
 
-### 2) 01. 창업 배경 및 문제 인식 (Background)
+### 01. 창업 배경 및 문제 인식 (Background)
 
 <img src="./images/03.PNG" width="940" />
 
@@ -110,7 +110,7 @@
 
 ---
 
-### 3) 02. 솔루션 개요 — Picky.AI
+### 02. 솔루션 개요 — Picky.AI
 
 <img src="./images/04.PNG" width="940" />
 
@@ -122,7 +122,7 @@
 
 ---
 
-### 4) 03. 카페24 & 스마트스토어 등과 연동
+### 03. 카페24 & 스마트스토어 등과 연동
 
 <img src="./images/05.PNG" width="940" />
 
@@ -133,7 +133,7 @@
 
 ---
 
-### 5) 04. 상담 어드바이스 챗봇
+### 04. 상담 어드바이스 챗봇
 
 <img src="./images/06.PNG" width="940" />
 
@@ -145,7 +145,7 @@
 
 ---
 
-### 6) 05. 시연동영상 (Feasibility)
+### 05. 시연동영상 (Feasibility)
 
 <img src="./images/07.PNG" width="940" />
 
@@ -159,7 +159,7 @@
 
 ---
 
-### 7) 06. 왜 이 솔루션이 필요한가 (시장 데이터)
+### 06-1. 왜 이 솔루션이 필요한가 (시장 데이터)
 
 <img src="./images/08.PNG" width="940" />
 
@@ -174,7 +174,7 @@
 
 ---
 
-### 8) 06-2. 왜 이 솔루션이 필요한가 (제작비/시간 관점)
+### 06-2. 왜 이 솔루션이 필요한가 (제작비/시간 관점)
 
 <img src="./images/09.PNG" width="940" />
 
@@ -202,7 +202,7 @@
 
 ---
 
-### 10) 08. 실제 쇼핑몰 적용사례 (Case Study)
+### 08. 실제 쇼핑몰 적용사례 (Case Study)
 
 <img src="./images/11.PNG" width="940" />
 
@@ -214,7 +214,7 @@
 
 ---
 
-### 11) 09. 적용 후 매출 성장 (Performance)
+### 09. 적용 후 매출 성장 (Performance)
 
 <img src="./images/12.PNG" width="940" />
 
@@ -228,7 +228,7 @@
 
 ---
 
-### 12) 10. 시스템 도입 효과 (Before vs After)
+### 10. 시스템 도입 효과 (Before vs After)
 
 <img src="./images/13.PNG" width="940" />
 
@@ -239,7 +239,7 @@
 
 ---
 
-### 13) 11. 비즈니스 모델 (Business Model)
+### 11. 비즈니스 모델 (Business Model)
 
 <img src="./images/14.PNG" width="940" />
 
@@ -252,7 +252,7 @@
 
 ---
 
-### 14) 12. 경쟁 솔루션 대비 차별점 (Differentiation)
+### 12. 경쟁 솔루션 대비 차별점 (Differentiation)
 
 <img src="./images/15.PNG" width="940" />
 
@@ -266,7 +266,7 @@
 
 ---
 
-### 15) 13. 현황 및 개발 일정 (Roadmap)
+### 13. 현황 및 개발 일정 (Roadmap)
 
 <img src="./images/16.PNG" width="940" />
 
@@ -282,7 +282,7 @@
 
 ---
 
-### 16) 14. 팀 소개 (Our Team)
+### 14. 팀 소개 (Our Team)
 
 <img src="./images/17.PNG" width="940" />
 
@@ -298,7 +298,7 @@
 
 ---
 
-### 17) Q&A
+### Q&A
 
 <img src="./images/18.PNG" width="940" />
 
